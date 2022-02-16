@@ -3,7 +3,6 @@ import requests as requests
 import xmltodict
 import json
 import os
-from flask import *
 import AddXML
 
 def hupuapi():
